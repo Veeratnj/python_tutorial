@@ -1,0 +1,104 @@
+# Topics
+
+- 01_introduction.py: Introduction to Python
+- 02_keywords_identifiers.py: Keywords and Identifiers
+- 03_variables.py: Variables
+- 04_constants_convention.py: Constants and Naming Convention
+- 05_data_types.py: Data Types
+- 06_type_conversion.py: Type Conversion
+- 07_input_output.py: Input and Output
+- 08_arithmetic_operators.py: Arithmetic Operators
+- 09_relational_operators.py: Relational Operators
+- 10_logical_operators.py: Logical Operators
+- 11_assignment_operators.py: Assignment Operators
+- 12_membership_operators.py: Membership Operators
+- 13_identity_operators.py: Identity Operators
+- 14_bitwise_operators.py: Bitwise Operators
+- 15_if_else_statements.py: If-Else Statements
+- 16_match_case.py: Match-Case Statement
+- 17_for_loop.py: For Loop
+- 18_while_loop.py: While Loop
+- 19_break_continue_pass.py: Break, Continue, and Pass
+- 20_list_comprehensions.py: List Comprehensions
+- 21_functions_basics.py: Functions Basics
+- 22_function_arguments.py: Function Arguments
+- 23_lambda_functions.py: Lambda Functions
+- 24_recursion.py: Recursion
+- 25_scope_global_nonlocal.py: Scope: Global and Nonlocal
+- 26_modules.py: Modules
+- 27_packages.py: Packages
+- 28_virtual_environments.py: Virtual Environments
+- 29_pip_package_management.py: Pip Package Management
+- 30_docstrings.py: Docstrings
+- 31_strings.py: Strings
+- 32_lists.py: Lists
+- 33_tuples.py: Tuples
+- 34_sets.py: Sets
+- 35_dictionaries.py: Dictionaries
+- 36_collections_module.py: Collections Module
+- 37_datetime_module.py: Datetime Module
+- 38_random_module.py: Random Module
+- 39_math_module.py: Math Module
+- 40_pathlib_module.py: Pathlib Module
+- 41_exceptions.py: Exceptions
+- 42_custom_exceptions.py: Custom Exceptions
+- 43_file_handling.py: File Handling
+- 44_csv_handling.py: CSV Handling
+- 45_json_handling.py: JSON Handling
+- 46_logging.py: Logging
+- 47_configparser.py: ConfigParser
+- 48_os_module.py: OS Module
+- 49_sys_module.py: Sys Module
+- 50_subprocess_module.py: Subprocess Module
+- 51_classes_objects.py: Classes and Objects
+- 52_constructors.py: Constructors
+- 53_instance_class_static_methods.py: Instance, Class, and Static Methods
+- 54_inheritance.py: Inheritance
+- 55_polymorphism.py: Polymorphism
+- 56_encapsulation.py: Encapsulation
+- 57_abstraction.py: Abstraction
+- 58_magic_dunder_methods.py: Magic/Dunder Methods
+- 59_dataclasses.py: Dataclasses
+- 60_properties.py: Properties
+- 61_iterators.py: Iterators
+- 62_generators.py: Generators
+- 63_decorators.py: Decorators
+- 64_context_managers.py: Context Managers
+- 65_type_hints.py: Type Hints
+- 66_enums.py: Enums
+- 67_namedtuple.py: Namedtuple
+- 68_functools.py: Functools
+- 69_itertools.py: Itertools
+- 70_regex.py: Regular Expressions
+- 71_threads.py: Threads
+- 72_multiprocessing.py: Multiprocessing
+- 73_concurrent_futures.py: Concurrent Futures
+- 74_asyncio_basics.py: Asyncio Basics
+- 75_async_await.py: Async and Await
+- 76_asyncio_tasks.py: Asyncio Tasks
+- 77_asyncio_gather.py: Asyncio Gather
+- 78_asyncio_queues.py: Asyncio Queues
+- 79_websockets.py: Websockets
+- 80_network_programming.py: Network Programming
+- 81_stacks.py: Stacks
+- 82_queues.py: Queues
+- 83_linked_lists.py: Linked Lists
+- 84_hash_tables.py: Hash Tables
+- 85_heaps.py: Heaps
+- 86_trees.py: Trees
+- 87_tries.py: Tries
+- 88_graphs.py: Graphs
+- 89_sorting_algorithms.py: Sorting Algorithms
+- 90_searching_algorithms.py: Searching Algorithms
+- 91_sqlite3.py: SQLite3
+- 92_postgresql_psycopg.py: PostgreSQL with Psycopg
+- 93_sqlalchemy_basics.py: SQLAlchemy Basics
+- 94_testing_unittest.py: Testing with Unittest
+- 95_testing_pytest.py: Testing with Pytest
+- 96_mocking.py: Mocking
+- 97_performance_profiling.py: Performance Profiling
+- 98_packaging.py: Packaging
+- 99_project_crm.py: Project: CRM
+- 100_project_rest_api.py: Project: REST API
+- 101_project_websocket_trader.py: Project: WebSocket Trader
+- 102_project_task_scheduler.py: Project: Task Scheduler
